@@ -1,5 +1,5 @@
 > [!WARNING]
-> **Repository transition (effective May 31st, 2026):** This codebase will eventually be superseded by the updated [_SanityPress (with TypeGen)_](https://sanitypress.dev). Plan new projects and migrations toward that repo. After the transition date, **this repository will be archived** as **`sanitypress-2023`** so the historical template remains available, while ongoing development focuses on TypeGen SanityPress.
+> **Repository transition (effective May 31st, 2026):** This codebase is now superseded by the updated [_SanityPress (with TypeGen)_](https://sanitypress.dev). Plan new projects and migrations toward that repo. **This repository is archived** as **`sanitypress-2023`** so the historical template remains available, while ongoing development focuses on SanityPress (with TygeGen).
 
 # 🖤 SanityPress
 
